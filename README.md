@@ -29,7 +29,9 @@ All forms in this puzzle are subsets of the same Face-Centered Cubic (FCC) latti
 2D Hex / Tetrahedron: The grid is aligned with the {111} plane (Vertex-up orientation).
 Pyramid: The grid is aligned with the {100} plane, rotated 45° to ensure the hexagonal faces meet perfectly.
 
-The Award-Winning Physical Puzzle: Sankakuyama The digital experience in this repository is a tribute to the physical Sankakuyama Puzzle, a masterfully crafted wooden 3D puzzle from Japan. Good Toy 2024 Award: Sankakuyama was honored with the prestigious Good Toy 2024 award, recognizing its excellence in design, playability, and artistic value. Physical Experience: While this viewer visualizes the mathematical "Metamorphosis," nothing beats the tactile warmth and satisfying "click" of the real wooden pieces forming a tetrahedron. How to Get One: The physical puzzle is available for order at the Tokyo Toy Museum (Museum Shop). It is highly recommended for puzzle enthusiasts and collectors who appreciate fine Japanese craftsmanship.
+The Award-Winning Physical Puzzle: Sankakuyama The digital experience in this repository is a tribute to the physical Sankakuyama Puzzle, a masterfully crafted wooden 3D puzzle from Japan. 
+
+Good Toy 2024 Award: Sankakuyama was honored with the prestigious Good Toy 2024 award, recognizing its excellence in design, playability, and artistic value. Physical Experience: While this viewer visualizes the mathematical "Metamorphosis," nothing beats the tactile warmth and satisfying "click" of the real wooden pieces forming a tetrahedron. How to Get One: The physical puzzle is available for order at the Tokyo Toy Museum (Museum Shop). It is highly recommended for puzzle enthusiasts and collectors who appreciate fine Japanese craftsmanship.
 
 <img src="real_sankakuyama_puzzle.JPG" width="500" alt="Sankakuyama Physical Puzzle">
 
