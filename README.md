@@ -10,9 +10,13 @@ Live Demo: https://sankakuyama-puzzle.github.io/Tetra-Hex-Metamorphosis/
 
 🌟 Key Features
 Perfect Geometric Alignment: Based on the Face-Centered Cubic (FCC) lattice. The pieces connect precisely at their hexagonal faces, even during transition.
+
 Physical Stacking Logic: Pieces are stacked from the bottom up, following a realistic assembly order. The peak pieces are always placed last.
+
 Rigid Body Metamorphosis: Using matrix interpolation, the pieces maintain their solid wooden feel without distorting during their parabolic flight between bases.
+
 The King's Chamber: Visualization of the internal voids within the Pyramid form, highlighted with a golden wireframe.
+
 Orthographic Beauty: Rendered in orthographic projection to emphasize geometric purity and alignment.
 
 
@@ -26,8 +30,11 @@ Mouse Wheel: Zoom in/out
 
 📐 Geometric Insight
 All forms in this puzzle are subsets of the same Face-Centered Cubic (FCC) lattice:
+
 2D Hex / Tetrahedron: The grid is aligned with the {111} plane (Vertex-up orientation).
+
 Pyramid: The grid is aligned with the {100} plane, rotated 45° to ensure the hexagonal faces meet perfectly.
+
 
 The Award-Winning Physical Puzzle: Sankakuyama The digital experience in this repository is a tribute to the physical Sankakuyama Puzzle, a masterfully crafted wooden 3D puzzle from Japan. 
 
